@@ -1,0 +1,9 @@
+In order to run ionosphere.py:
+	python ionosphere.py
+In order to run ionoKmeans.py:
+	python ionoKmeans.py
+	
+In order to run wine.py:
+	python wine.py
+In order to run wineKmeans.py:
+	python wineKmeans.py
